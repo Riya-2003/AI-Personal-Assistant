@@ -1,0 +1,14 @@
+langchain
+langchain-google-community
+langchain-groq
+python-dotenv
+pytest
+crewai
+serpapi
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+torch
+cohere
+
