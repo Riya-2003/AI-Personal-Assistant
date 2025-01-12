@@ -24,7 +24,7 @@ An advanced AI-powered personal assistant capable of scheduling emails, answerin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-personal-assistant.git
+   https://github.com/Riya-2003/AI-Personal-Assistant.git
    ```
 2. Navigate to the project directory:
    ```bash
